@@ -1,2 +1,2 @@
 # aminationjs
-First Animation with animation js react
+First Animation with animation js
